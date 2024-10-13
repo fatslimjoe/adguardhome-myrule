@@ -5,3 +5,7 @@
 ^.*\.googlevideo\.com$
 ^.*\.ytimg\.com$
 ^.*\.ggpht.com$
+
+^rr[0-9]+---sn-[a-z0-9]+(?:-[a-z0-9]+)*\.googlevideo\.com$
+^.*ad.*\.ytimg\.com$
+^.*ad.*\.ggpht\.com$
